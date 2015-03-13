@@ -1,4 +1,4 @@
-flatpress
-=========
+FlatPress RUS
+=============
 
 FlatPress official repository
